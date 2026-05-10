@@ -1333,6 +1333,28 @@ Coding
 
 </details>
 
+## [Entroly](https://github.com/juyterman1000/entroly)
+Information-theoretic context compression engine for AI coding agents
+
+<details>
+
+![Image](https://github.com/juyterman1000/entroly/raw/main/docs/assets/logo.png)
+
+### Category
+Coding, General purpose, Productivity
+
+### Description
+- A transparent local proxy and MCP server that optimizes the context window for AI coding agents (Claude Code, Cursor, Copilot).
+- Compresses codebase context by 78% on average with zero quality loss using a Rust-based information-theoretic knapsack optimizer.
+- Prevents LLM hallucinations caused by context truncation or irrelevant file inclusion.
+- Features SimHash deduplication, multi-probe LSH search, and an online RL engine (PRISM) that continuously adapts optimization weights to your codebase patterns.
+- Includes a live intelligence dashboard to monitor token consumption, dedup metrics, and actual financial savings.
+
+### Links
+- [GitHub](https://github.com/juyterman1000/entroly)
+
+</details>
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
